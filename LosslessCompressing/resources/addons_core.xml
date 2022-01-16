@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addonCore>
+  <label>Lossless Compressing</label>
+  <version>1.0</version>
+  <type>app</type>
+  <packagedBy>(R2019a)</packagedBy>
+  <identifier>714628d3-3d19-470f-a2a7-539d69689c19</identifier>
+  <createdBy name="Nguyen Dam Truong"/>
+  <image>resources/screenshot.png</image>
+  <icons>
+    <icon tag="0">resources/icon_48.png</icon>
+    <icon tag="1">resources/icon_24.png</icon>
+    <icon tag="2">resources/icon_16.png</icon>
+  </icons>
+</addonCore>
